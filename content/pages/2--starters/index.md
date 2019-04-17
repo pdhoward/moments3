@@ -5,7 +5,7 @@ menuTitle: Start
 
 ### Threshing Machines
 
-![threshing](./picture33.jpg)
+![threshing](./Picture33.jpg)
 
 What is your communication strategy>
 
@@ -14,7 +14,7 @@ What is your communication strategy>
 
 ### Strategic Machines
 
-![StyledBlog](./picture1.jpg)
+![StyledBlog](./Picture1.jpg)
 
 We can get you started
 

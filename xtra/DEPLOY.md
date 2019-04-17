@@ -8,3 +8,6 @@ Themes
 
 Algolia
 // https://dev.greglobinski.com/setup-algolia-account/
+
+ICON MAKER
+// https://appicon.co/

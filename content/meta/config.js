@@ -4,7 +4,7 @@ module.exports = {
   siteTitle: "Moments - Member Engagement Platform", // <title>
   shortSiteTitle: "Moments", // <title> ending for posts and pages
   siteDescription: "PMember Engagement and Dialogue Platform",
-  siteUrl: "",
+  siteUrl: "https://kind-stallman-40779c.netlify.com",
   pathPrefix: "",
   siteImage: "preview.jpg",
   siteLanguage: "en",

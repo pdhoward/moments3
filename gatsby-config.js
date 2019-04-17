@@ -217,9 +217,6 @@ module.exports = {
       }
     },
     {
-      resolve: `gatsby-plugin-sitemap`
-    },
-    {
       resolve: "gatsby-plugin-react-svg",
       options: {
         include: /svg-icons/

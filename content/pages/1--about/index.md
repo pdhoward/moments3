@@ -2,16 +2,24 @@
 title: About
 ---
 
-This is a demo site of the [PersonalBlog](https://github.com/greglobinski/gatsby-starter-personal-blog) GatsbyJS starter.
+### Let's have a conversation.
 
-The starter is a ready to use, easy to customize 'like theme' starter. It has everything what blog should have and some more.
+Let's face it. Communications with your most important constituents in your business can be a challenge. And yet, there has never been a more important time than now to cut through the clutter and deliver the right content to your clients in a compelling and accessable manner.
+
+Strategic Machines is the intelligent dialogue management platform. We use employ the most advance machine learning systems available to help you customize content for your audiences and deliver it through a structured publishing process -- right to their mobile device.
+
+And just as important, our platform is a dialogue -- permitting your customers, employees and trading partners to connect with immediately through advanced messaging. 
+
+We take business personally. 
+
+### Functional features:
+
 
 ### Standard features:
 
 * Easy editable content in **Markdown** files (posts, pages and parts)
 * **SEO** (sitemap generation, robot.txt, meta and OpenGraph Tags)
 * **Social** sharing (Twitter, Facebook, Google, LinkedIn)
-* **Comments** (Facebook)
 * **Images** lazy loading and `webp` support (gatsby-image)
 * Post **categories** (post list filtering)
 * Full text **searching** (Algolia)
@@ -21,6 +29,7 @@ The starter is a ready to use, easy to customize 'like theme' starter. It has ev
 * Google **Analytics**
 * **Favicons** generator (node script)
 * **Material UI** (@next)
+* **Options** many other optional components can be added to enhance member engagement, like comments, podcasts, shopping ....
 
 ### Advanced features:
 
@@ -32,6 +41,6 @@ The starter is a ready to use, easy to customize 'like theme' starter. It has ev
 * Webpack `BundleAnalyzerPlugin`
 * Contact **form validation** (react-material-ui-form-validator)
 
-## Instructions
+## Ready to Get Started?
 
-For detailed instructions go to [Front-end web development with Greg](https://dev.greglobinski.com/gatsby-starter-personal-blog/).
+Visit [Strategic Machines](https://heuristic-swirles-3b9c37.netlify.com/).

@@ -1,4 +1,4 @@
-# PersonalBlog
+# MOMENTS
 
 A [GatsbyJS](https://www.gatsbyjs.org/) personal blog starter. <br /><br />
 
@@ -17,11 +17,11 @@ A [GatsbyJS](https://www.gatsbyjs.org/) personal blog starter. <br /><br />
 
   <br />
 
-See the starter in action » [demo website](https://gatsby-starter-personal-blog.greglobinski.com/) <br />For more information visit » [dev.greglobinski.com/gatsby-starter-personal-blog](https://dev.greglobinski.com/gatsby-starter-personal-blog/)
+See Example Site » [demo website](https://confident-gates-1fd25c.netlify.com//) <br />For more information visit » [MOMENTS](https://dev.greglobinski.com/gatsby-starter-personal-blog/)
 
 ## Description
 
-A ready to use, easy to customize [GatsbyJS](https://github.com/gatsbyjs/gatsby) personal blog starter with 'like app' layout transitions.
+Member engagement is more art than engineering. But once we understand the art of engagement, it is important to employ the engineering with beautiful, compelling dialogue bundles
 
 ## Features:
 
@@ -29,7 +29,6 @@ A ready to use, easy to customize [GatsbyJS](https://github.com/gatsbyjs/gatsby)
 - Easy editable content in Markdown files (posts, pages and parts)
 - Easily restyled through theme object
 - Styling with JSS
-- Comments (Facebook)
 - Post categories
 - Post list filtering
 - Full text searching (Algolia)
@@ -106,9 +105,9 @@ FB_APP_ID=...
 
 You should take a look at this: [Gatsby on Windows](https://www.gatsbyjs.org/docs/gatsby-on-windows/)
 
-## Authors
+## Software Engineers
 
-- Greg Lobinski [@greglobinski](https://github.com/greglobinski)
+-  Strategic Machines [@greglobinski](https://github.com/greglobinski)
 
 See also the list of [contributors](https://github.com/greglobinski/gatsby-starter-personal-blog/graphs/contributors) who participated in this project.
 
@@ -124,14 +123,7 @@ See also the list of [contributors](https://github.com/greglobinski/gatsby-start
 
 MIT License
 
-Copyright (c) 2017 gatsbyjs <br />Copyright (c) 2018 greg lobinski
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+Copyright (c) 2017 gatsbyjs <br />Copyright (c) 2019 Strategic Machines
 
 [coc-badge]: https://img.shields.io/badge/code%20of-conduct-ff69b4.svg?style=flat-square
 [coc]: https://github.com/greglobinski/gatsby-starter-personal-blog/blob/master/CODE_OF_CONDUCT.md
